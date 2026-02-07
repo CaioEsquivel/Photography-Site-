@@ -1181,6 +1181,9 @@ gap: 10px;    }
     .section-three{
         padding: 0 10px;
     }
+    .section-three-h2{
+        font-size: 40px;
+    }
     
 }
 @media(max-width: 399px){
