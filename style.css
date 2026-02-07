@@ -251,6 +251,10 @@ color: var(--black);
     font-size: 16px;
     text-transform: uppercase;
     font-weight: bold;
+    transition: all .5s ease;
+}
+.section-one-a:hover{
+    background: var(--black);
 }
 .right-side{
     background-color: var(--white);
@@ -1115,6 +1119,17 @@ gap: 10px;    }
         max-width: 300px;
         width: 100%;
         margin: auto;
+    }
+    .section-three-h2{
+        padding: 0 20px;
+    }
+    .line-content{
+        
+    }
+    .line-container{
+        width: 100%;
+        padding: 0 20px;
+        margin: 20px 0;
     }
 
     .footer-container{
