@@ -1177,5 +1177,17 @@ gap: 10px;    }
         max-height: 100px;
         width: 100%;
         object-fit: cover;
+
+    }
+    .header-link-li-container-mobile li{
+        padding: 10px 5px;
+        
+    }
+    .header-link-li-container-mobile a{
+        font-size: 12px;
+
+    }
+    .header-btn-li-mobile{
+        padding: 10px 15px;
     }
 }
