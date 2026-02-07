@@ -1184,6 +1184,9 @@ gap: 10px;    }
     .section-three-h2{
         font-size: 40px;
     }
+    .section-three-right-bottom-container h4,.section-three-right-bottom-container span{
+        max-width: 160px;
+    }
     
 }
 @media(max-width: 399px){
