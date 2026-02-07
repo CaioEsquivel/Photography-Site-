@@ -1058,6 +1058,10 @@ gap: 10px;    }
     .section-one-h3{
         text-align: center;
     }
+    .explore-container{
+        border-bottom: 1px solid var(--black);
+        padding-bottom: 20px;
+    }
 }
 @media (max-width:629px){
     .header-link-right{
