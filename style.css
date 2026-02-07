@@ -1184,8 +1184,11 @@ gap: 10px;    }
     .section-three-h2{
         font-size: 40px;
     }
-    .section-three-right-bottom-container h4,.section-three-right-bottom-container span{
+    .section-three-right-bottom-container h4{
         max-width: 160px;
+    }
+    .section-three-right-bottom-container span{
+        font-size: 12px;
     }
     
 }
